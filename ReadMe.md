@@ -16,7 +16,7 @@ I'm an aspiring full-stack engineer from Greece 🇬🇷 and a proud graduate of
 
 😄 Fun fact: A good sense of humor makes coding a lot more fun — after all, who hasn’t laughed (or cried) over a stubborn bug?
 
-## 🎮 Things I enjoy outside of code
+### 🎮 Things I enjoy outside of code
 
 - 📚 Reading fantasy novels  
 - 🕹️ Gaming — from immersive RPGs to intense multiplayer matches  
