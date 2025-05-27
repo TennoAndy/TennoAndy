@@ -8,13 +8,15 @@
 
 I'm an aspiring full-stack engineer from Greece 🇬🇷 and a proud graduate of the [Coding Factory](https://codingfactory.aueb.gr/) program at the Athens University of Economics and Business (AUEB). I've immersed myself in full-stack development, honing my skills in languages and frameworks like Java, C#, Python, JavaScript, SQL, Angular, and TypeScript.
 
-💻 During my time at Coding Factory, I worked on various projects that solidified my understanding of software development principles — from building backend systems to creating responsive front-end applications.
+💻 During my time at Coding Factory, I worked on various projects that solidified my understanding of software development principles — from building backend systems to creating responsive front-end applications. I’ve also completed [Colt Steele’s Web Developer Bootcamp](https://www.udemy.com/course/the-web-developer-bootcamp/) on Udemy, where I strengthened my knowledge of HTML, CSS, JavaScript, Node.js, Express, and MongoDB through hands-on projects.
 
 🚀 I'm passionate about building efficient, user-friendly software and love learning new technologies. Right now, I'm focused on sharpening my skills and exploring new opportunities in the world of software engineering.
 
 🔍 I'm currently open to internship or junior developer opportunities where I can grow, contribute, and learn from experienced teams.
 
 😄 Fun fact: A good sense of humor makes coding a lot more fun — after all, who hasn’t laughed (or cried) over a stubborn bug?
+
+
 
 ### 🎮 Things I enjoy outside of code:
 
